@@ -1,5 +1,7 @@
-.*vscode
-.*pyc
-.*env
-.**/migrations/*
-.*cache
+.vscode/*
+*.pyc
+*.venv
+__pycache__
+db.sqlite3
+**/migrations/*
+*.cache
