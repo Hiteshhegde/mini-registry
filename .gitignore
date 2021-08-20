@@ -1,5 +1,7 @@
 .*vscode
 .*pyc
 .*env
-.**/migrations/*
+**/migrations/**
+!**/migrations
+!**/migrations/__init__.py
 .*cache
