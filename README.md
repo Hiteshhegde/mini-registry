@@ -1,1 +1,3 @@
-# mini-registry
+# Mini-registry system
+Reusable resgistry system
+
